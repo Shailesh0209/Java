@@ -1,4 +1,5 @@
 # Java
+[YouTube Playlist](https://www.youtube.com/watch?v=Ae-r8hsbPUo&list=PLyGVjd4KQp13YjiVHTPmF02IhdH7_KMc8)
 
 ## Week 1
 
